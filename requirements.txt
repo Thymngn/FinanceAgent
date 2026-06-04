@@ -1,0 +1,14 @@
+# Core - Azure AI Foundry Agent Framework
+agent-framework>=0.1.0          # Microsoft Azure AI Agent Framework
+openai>=1.40.0                  # Azure OpenAI SDK
+
+# MCP (Model Context Protocol)
+mcp>=1.0.0                      # MCP Python SDK
+fastmcp>=0.1.0                  # FastMCP for easy server creation
+
+# Finance / Data
+httpx>=0.27.0                   # Async HTTP for market data
+python-dotenv>=1.0.0            # .env loading
+
+# Optional: Streamlit UI
+streamlit>=1.35.0

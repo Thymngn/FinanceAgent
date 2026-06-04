@@ -1,0 +1,30 @@
+# Environment & secrets
+.env
+*.env
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Logs
+*.log
