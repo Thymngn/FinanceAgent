@@ -1,4 +1,4 @@
-# 💰 Finance Research Agent
+# 💰 Finance Education Research Agent
 
 > **Azure AI Foundry + MCP** — An intelligent financial research assistant with real-time market data, portfolio analysis, and financial calculators.  
 > Built for resume demonstration of agentic AI systems using Microsoft's Azure AI Foundry framework.
